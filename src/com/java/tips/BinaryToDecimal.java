@@ -1,3 +1,5 @@
+package com.java.tips;
+
 import java.io.UnsupportedEncodingException;
 
 public class BinaryToDecimal {

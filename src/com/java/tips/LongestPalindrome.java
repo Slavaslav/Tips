@@ -1,3 +1,5 @@
+package com.java.tips;
+
 public final class LongestPalindrome {
     public static void main(String[] args) {
         String s = "12145445499"; // 454454
